@@ -10,7 +10,7 @@ Here're some of the project's best features:
 
 *   Real-time Monitoring: Monitors transaction data in real-time.
 *   Fraud Detection: Implements fraud detection rules
-*   Rule : Transactions from more than 2 different cities with the same customerId.
+*   <b>Rule : Transactions from more than 2 different cities with the same customerId.</b>
 *   Smooth Data Pipeline: Ensures efficient data handling
 *   API Integration: Provides REST API for publishing transactions.
 
